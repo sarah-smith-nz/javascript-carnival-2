@@ -36,5 +36,3 @@ function whackedMole() {
   audio.play();
   console.log('mole has been whacked')
 }
-
-

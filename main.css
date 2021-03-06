@@ -1,6 +1,6 @@
 body {
 	font-family: 'Rye', cursive;
-	background-color: LightPink;
+	background-color: #ffeb3b;
 }
 
 h1 { 
@@ -10,6 +10,19 @@ h1 {
 	text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50x;
+ 
+}
+
 table {
   margin-right: center;
   margin-left: center;
@@ -17,7 +30,7 @@ table {
 }
 
 td {
-  background-color: BurlyWood;
+  background-color: rgb(160, 94, 7);
   height: 75px;
   width: 75px;
 }
